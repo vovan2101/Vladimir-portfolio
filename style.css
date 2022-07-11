@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    color: rgb(255, 123, 0);
+    font-size: 30px;
+}
+
+.header {
+    margin-bottom: 10px;
+}
+
+.inner-header {
+    background: peachpuff;
+    min-height: 200px;
+    color:rgba(78, 78, 78);
+    text-align: center;
+    word-spacing: 120px;
+
+}
+.content {
+    width: 70%;
+    float: left;
+}
+
+.inner-content {
+    background: peachpuff;
+    min-height: 500px;
+    color: rgb(78, 78, 78);
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    padding-left: 10px;
+
+}
+
+.inner-sidebar {
+    background: peachpuff ;
+    min-height:500px
+    
+}
